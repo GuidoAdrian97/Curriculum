@@ -30,6 +30,26 @@ margin-left: 600px;
 margin-left: 600px;
 }
 
+#textoExperiencia{
+	font: bold 25px tohama; 
+	width: 100%;
+	margin-top: 0px;
+margin-left: 600px;
+}
+#textoFORMACION{
+	font: bold 25px tohama; 
+	width: 100%;
+	margin-top: 170px;
+margin-left: 600px;
+}
+#posiciontabla{
+
+	font: bold 15px tohama; 
+	width: 35%;
+	margin-top: 220px;
+margin-left: 600px;
+}
+
 div#general{
 	margin: auto;
 	width: 1540px;
